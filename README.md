@@ -86,10 +86,10 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 3. Explicação: <EXPLICACAO_AQUI>
 
 # RESPOSTA DO EXERCÍCIO
-Repositório selecionado: https://github.com/pytorch/pytorch.git [Visualizar relatório HTML](report_pytorch.html)
+Repositório selecionado: https://github.com/pytorch/pytorch.git ([Visualizar relatório HTML](report_pytorch.html))
 
 Gráfico selecionado:
-![Gráfico selecionado para análise](Captura de Tela 2025-09-04 às 21.33.17.png)
+![Gráfico selecionado para análise](grafico_AP1_ES2.png)
 
 
 Explicação:
